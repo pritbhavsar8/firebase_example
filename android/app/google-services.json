@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718753448548",
+    "project_id": "firstfirebase-bead3",
+    "storage_bucket": "firstfirebase-bead3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718753448548:android:6c53f167e4b37e56129571",
+        "android_client_info": {
+          "package_name": "com.example.firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718753448548-47ep2p9ejma2j0n8a04g0nhvqk46l7ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfYwjG1IQbjqLPNkBLh-RXUy4zUYLFYwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718753448548-47ep2p9ejma2j0n8a04g0nhvqk46l7ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
